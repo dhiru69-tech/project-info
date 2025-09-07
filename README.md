@@ -3,7 +3,7 @@
 
 ---
 
-<h1 align="center">🌌 My Futuristic Project Suite 🌌</h1>
+<h1 align="center">🌌 My Fantastic Project Suite 🌌</h1>
 <p align="center">✨ Interactive. Responsive. Animated. Real-Time. ✨</p>
 
 ---
