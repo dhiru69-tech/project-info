@@ -1,7 +1,5 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monaco&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=🚀+Welcome+to+My+Project+Showcase;🔐+Login+Route+%7C+🌦️+Weather+App+%7C+👤+Profile+Card+%7C+🌗+Theme+Toggle;✨+Modern+UI+%7C+Real-Time+API+%7C+Dark%2FLight+Mode" alt="Typing Animation" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=🚀+Welcome+to+My+Project+Showcase;🔐+___Login+Route+%7C+🌦️+Weather+App+%7C+👤+Profile+Card+%7C+🌗+Theme+Toggle;✨+Modern+UI+%7C+Real-Time+API+%7C+Dark%2FLight+Mode)
+
 
 ---
 
